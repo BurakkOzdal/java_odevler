@@ -31,6 +31,8 @@ public class ClassesMain {
      sayilar2 = sayilar1;
      sayilar1[0] = 10;
      System.out.println(sayilar2[0]);
+
+
 	
 	}
 

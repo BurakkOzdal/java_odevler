@@ -17,5 +17,7 @@ public class DortIslem {
 	    public  int bol(int sayi1, int sayi2){
 	        int bolme = sayi1 / sayi2;
 	        return (int)bolme;
+	        
+	        
 	    }
 }
